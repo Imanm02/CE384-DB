@@ -1,0 +1,2 @@
+| participant_id_1 |score |
+('0318960291', 50)

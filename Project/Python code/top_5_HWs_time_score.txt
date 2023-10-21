@@ -1,0 +1,6 @@
+| participant_id |HW_score |Submission_time |
+('0318960291', 25, datetime.datetime(2023, 5, 2, 23, 56, 1))
+('0318960291', 25, datetime.datetime(2023, 5, 10, 15, 46, 9))
+('0352465468', 25, datetime.datetime(2023, 5, 11, 19, 23, 47))
+('0352465468', 25, datetime.datetime(2023, 5, 15, 11, 24, 14))
+('0973274055', 25, datetime.datetime(2023, 5, 27, 14, 50, 36))
