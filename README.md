@@ -13,7 +13,7 @@ This repository contains solutions to the assignments and slides for the CE284: 
 
 ## Assignments
 
-In the "Assignment" folder, you will find the solution to our assignment during the course.
+In the "Assignment" folder, you will find the solution to our assignments during the course.
 
 ## Slides
 
@@ -22,3 +22,5 @@ The "Slides" folder contains the course slides used by Mr. Dadbakhsh during the 
 ## Maintainer
 
 - [Iman Mohammadi](https://github.com/Imanm02)
+- [Shayan Salehi](https://github.com/ShayanSalehi81)
+- [Donya Navabi](https://github.com/Dnyanvb)
