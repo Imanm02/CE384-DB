@@ -22,4 +22,3 @@ The "Slides" folder contains the course slides used by Mr. Dadbakhsh during the 
 ## Maintainer
 
 - [Iman Mohammadi](https://github.com/Imanm02)
-- 
