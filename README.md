@@ -12,6 +12,7 @@ This repository contains solutions to the assignments and slides for the CE284: 
 - [Assignments](#assignments)
 - [Presentation](#presentation)
 - [Slides](#slides)
+- [Maintainer](#maintainer)
 
 ## Project
 
