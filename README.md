@@ -11,7 +11,6 @@ This repository contains solutions to the assignments and slides for the CE284: 
 - [Project](#project)
 - [Assignments](#assignments)
 - [Presentation](#presentation)
-- [Slides](#slides)
 - [Maintainer](#maintainer)
 
 ## Project
@@ -25,10 +24,6 @@ In the "Assignment" folder, you will find the solution to our assignments during
 ## Presentation
 
 In the "Presentation" folder, you will find the slides and documents of our 2 presentations during the course.
-
-## Slides
-
-The "Slides" folder contains the course slides used by Mr. Dadbakhsh during the lectures.
 
 ## Maintainer
 
