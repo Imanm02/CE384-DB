@@ -3,7 +3,7 @@ Solutions to Mr. Dadbakhsh's CE384: Database Design (Sharif University of Techno
 
 ## Overview
 
-This repository contains solutions to the assignments and slides for the CE284: Database Design course at Sharif University of Technology, Spring 2023, taught by Mr. Dadbakhsh.
+This repository contains solutions to the assignments and project for the CE284: Database Design course at Sharif University of Technology, Spring 2023, taught by Mr. Dadbakhsh.
 
 ## Table of Contents
 
