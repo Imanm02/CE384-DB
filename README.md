@@ -1,4 +1,4 @@
-# CE384-Database-Design
+# CE384-DB
 Solutions to Mr. Dadbakhsh's CE384: Database Design (Sharif University of Technology - Spring 2023) Assignments
 
 ## Overview
