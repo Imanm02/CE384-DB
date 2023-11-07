@@ -19,7 +19,7 @@ In the "Project" folder, you will find all the codes, documents, and information
 
 ## Assignments
 
-In the "Assignment" folder, you will find the solution to our assignments during the course.
+In the "Assignments" folder, you will find the solution to our assignments during the course.
 
 ## Presentation
 
